@@ -1,0 +1,26 @@
+Hello dev...
+
+=/= This is "My card" Flutter app. It looks like a business card with the main informations: 
+* Photo
+* Full Name
+* Job
+* Phone number
+* Email adress
+* LinkedIn adress
+* Facebook adress
+* (optional) The website of the person
+
+
+=/= I made it different than the ordinary buisiness card by adding some interactivity with the users. They can:
+* call the person when they touch his phone number (1st card)
+* Send sms to the person when they touch his phone number (2nd card)
+* Send emails to the person when they touch his email 
+* Go to the LinkedIn profile page when they tap the correspondet button
+* Go to the Facebook profile page when they tap the correspondet button
+* Go to the personal website when they tap the correspondet button (optional)
+
+=/= I used two external packages which are: 
+* google_fonts: ^0.4.0, for text styles
+* url_launcher: ^5.4.2, for the operations of launching urls, make calls, send sms and emails
+
+
